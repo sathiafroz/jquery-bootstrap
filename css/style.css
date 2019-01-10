@@ -1,0 +1,51 @@
+body{
+	font-family: 'Dosis', sans-serif;
+	color: #333333;
+}
+.banner2{
+	background-image: url(../images/banner2.png);
+}
+.title2 h1{
+	margin-top: 50px; 
+	color: black;	
+}
+.title2 hr{
+	width: 250px;
+    border: none;
+    border-bottom: 5px dashed;
+    color: white;
+    margin-top: 20px;
+}
+.img_top{
+	margin-top: 80px;
+}
+.images_group{
+	margin-top: 20px;
+}
+.images_group img{
+	border-radius: 15px;
+}
+.vew_more{
+	margin: 60px 0;
+}
+.vew_btn{
+	transition: 2s;
+}
+.vew_btn:hover{
+	background: #FFD338;
+	border-radius: 30px;
+}
+.bg_none{
+	background: none;
+	border: none;
+}
+.bulb{
+	padding: 100px 0;
+	background-color: #455A64;
+}
+.btn_1{
+	margin-right: 100px;
+}
+.btn_2{
+	margin-left: 100px;
+}
